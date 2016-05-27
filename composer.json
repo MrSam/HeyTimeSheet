@@ -1,0 +1,12 @@
+{
+    "name": "mrsam/heytimesheet",
+    "description": "PHP API for HeyUpdate.com",
+    "license": "GNUv3",
+    "authors": [
+        {
+            "name": "Sam Hermans",
+            "email": "sam@lumturio.com"
+        }
+    ],
+    "require": {}
+}
